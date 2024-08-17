@@ -1,0 +1,5 @@
+train: C:/Users/User/Desktop/image-recognition/Project/yolo/train/images
+val: C:/Users/User/Desktop/image-recognition/Project/yolo/valid/images
+
+nc: 3
+names: ['rock', 'paper', 'scissors']
